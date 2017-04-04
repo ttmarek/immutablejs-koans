@@ -1,0 +1,15 @@
+{
+  "name": "immutablejs-koans",
+  "version": "0.1.0",
+  "description": "The Koans walk you along the path to enlightenment to learn ImmutableJS",
+  "main": "index.js",
+  "author": "Thomas Marek",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "devDependencies": {
+    "immutable": "^3.8.1",
+    "jest": "^19.0.2"
+  }
+}
